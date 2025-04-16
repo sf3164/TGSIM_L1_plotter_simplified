@@ -27,7 +27,7 @@ The tool produces an HTML file (`L1_Simplified_Plot.html`) displaying the intera
 ```bash
 .
 ├── TGSIM_L1.csv            # Main trajectory dataset
-├── centerline/
+├── Centerline/
 │   ├── I-294-L1-Run_1-geometry-with-ramps.csv
 │   ├── I-294-L1-Run_2-geometry-with-ramps.csv
 │   └── ...                            # One file per run index
